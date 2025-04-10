@@ -1,0 +1,4 @@
+D:\ProjectZTU\KPZ\Lab3\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+D:\ProjectZTU\KPZ\Lab3\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+D:\ProjectZTU\KPZ\6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+D:\ProjectZTU\KPZ\6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache

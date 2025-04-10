@@ -1,0 +1,2 @@
+D:\ProjectZTU\KPZ\Lab3\obj\Debug\ClassLibrary_5.csproj.AssemblyReference.cache
+D:\ProjectZTU\KPZ\Lab3\obj\Debug\ClassLibrary_5.csproj.CoreCompileInputs.cache

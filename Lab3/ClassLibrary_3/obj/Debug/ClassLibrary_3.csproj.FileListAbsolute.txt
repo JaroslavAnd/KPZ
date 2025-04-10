@@ -1,0 +1,12 @@
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\bin\Debug\ClassLibrary_3.dll
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\bin\Debug\ClassLibrary_3.pdb
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\obj\Debug\ClassLibrary_3.csproj.AssemblyReference.cache
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\obj\Debug\ClassLibrary_3.csproj.CoreCompileInputs.cache
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\obj\Debug\ClassLibrary_3.dll
+D:\ProjectZTU\KPZ\Lab3\ClassLibrary_3\obj\Debug\ClassLibrary_3.pdb
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\bin\Debug\ClassLibrary_3.dll
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\bin\Debug\ClassLibrary_3.pdb
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\obj\Debug\ClassLibrary_3.csproj.AssemblyReference.cache
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\obj\Debug\ClassLibrary_3.csproj.CoreCompileInputs.cache
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\obj\Debug\ClassLibrary_3.dll
+D:\ProjectZTU\KPZ\6\ClassLibrary_3\obj\Debug\ClassLibrary_3.pdb
